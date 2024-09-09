@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
@@ -457,3 +458,8 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# video_conferecing_websitee
+Developed a real-time video conferencing application using modern technologies such as React.js, Next.js,
+and GetStream.io. Implemented features for seamless video communication, and secure user authentication using Clerk
+>>>>>>> 0ff372cc83b19bc519b0beddf15a9ce1d170adb2
